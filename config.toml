@@ -1,0 +1,5 @@
+baseURL = "http://mujjazi.github.io"
+languageCode = "en-us"
+title = "Mujtaba"
+theme = "hugo-uilite"
+publishdir = "mujjazi.github.io"

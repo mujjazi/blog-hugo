@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Web Automation",
+			"description" : "Developing and Modifying Test Automation Frameworks to improve quality and reduce regression time"
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Mobile Automation",
+			"description" : "Developing Automated Mobile automation frameworks to imrove mobile app quality and reduce regression time"
+		}
+	]
+}

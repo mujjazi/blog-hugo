@@ -1,0 +1,12 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Java" : "90",
+		"Python" : "85",
+		"Selenium" : "90",
+		"Software Quality Assurance" : "95",
+		"Test Automation" : "90",
+		"API Automation" : "85",
+		"E2E Testing" : "80"
+	}
+}

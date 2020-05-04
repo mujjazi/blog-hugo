@@ -1,0 +1,31 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "July 2017 - April 2019",
+			"company" : "we.R.play",
+			"website": "https://www.werplay.com/",
+			"description" : "Worked on a wide range of in house and offshore projects including War Dragons, Sun and Sand Sports, Sandbox, Explottens, Run Sheeda Run developed by PocketGems, Sun & Sand Sports, Pixowl and weRplay respectively"
+		}
+		,
+		{
+			"timeperiod" : "May 2019 - July 2019",
+			"company" : "DPL IT",
+			"website": "https://www.dplit.com/",
+			"description" : "Worked on a Dubai based project called CarPal, Developed Web Automation Framework for the web App using Java and Selenium, Improved the Regression time by automating the regression cases"
+		}
+		,
+		{
+			"timeperiod" : "July 2019 - May 2020",
+			"company" : "Telenor MicroFinance Bank",
+			"website": "https://www.telenorbank.pk/",
+			"description" : "Improved Application Rating to 4.6 for closing of year 2019, Worked with Easypaisa (Top Rated Finance category app in Pakistan), Reduced the Crashes of Easypaisa application and improved crash-free rate from ~80% to 99.7%, Increased online positive reviews by 30% "
+		},
+		{
+			"timeperiod" : "May 2020 - Present",
+			"company" : "APIMatic",
+			"website": "https://www.apimatic.io/",
+			"description" : "Working in a cross-functional team to deliver high quality product features to our clients, Enterprise clients include Cisco Meraki, Cohesity, VISA Earthport and BurstSMS"
+		}
+	]
+}
