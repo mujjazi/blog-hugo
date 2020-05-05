@@ -1,6 +1,6 @@
 [submodule "themes/hugo-uilite"]
 	path = themes/hugo-uilite
 	url = https://github.com/uicardiodev/hugo-uilite
-[submodule "mujtaba.github.io"]
-	path = mujtaba.github.io
-	url = https://github.com/mujjazi/mujtaba.github.io.git
+[submodule "mujjazi.github.io"]
+	path = mujjazi.github.io
+	url = https://github.com/mujjazi/mujjazi.github.io.git

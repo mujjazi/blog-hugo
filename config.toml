@@ -1,5 +1,5 @@
-baseURL = "https://mujtaba.github.io/"
+baseURL = "https://mujjazi.github.io/"
 languageCode = "en-us"
 title = "Mujtaba"
 theme = "hugo-uilite"
-publishdir = "mujtaba.github.io"
+publishdir = "mujjazi.github.io"
